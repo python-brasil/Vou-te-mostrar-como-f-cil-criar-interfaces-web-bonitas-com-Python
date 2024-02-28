@@ -47,9 +47,10 @@ Rode o projeto com
 
 ```bash
   streamlit run main.py
+```
 ## Screenshot
 
-![ezgif-5-82285111c0](https://github.com/python-brasil/Transformando_Imagens_em_Objeto3D_com_Python/assets/126124866/9e76fcab-56c3-4e06-8bcf-0e7c86e64ad6)
+![Vou te mostrar como é fácil criar um sistema  Web bonito com Python](https://github.com/python-brasil/Vou-te-mostrar-como-f-cil-criar-interfaces-web-bonitas-com-Python/assets/126124866/a6d24a1b-3d61-4994-889f-6bcbea25ea53)
 
 ## Infos de commits
 
